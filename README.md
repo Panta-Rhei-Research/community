@@ -1,2 +1,1 @@
-# community
-Community discussion shell for the wider Panta Rhei project.
+# Panta Rhei Community\n\nGeneral community discussion shell for the Panta Rhei project. Use this repo as the source repository for organization discussions.\n
