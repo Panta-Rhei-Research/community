@@ -20,10 +20,10 @@ It is the source repository for broad discussion surfaces and general organizati
 ## Where to go next
 
 - 🌌 Website: https://panta-rhei.site
-- 🧮 TauLib: https://github.com/Panta-Rhei-Framework/taulib
-- 🧪 Research: https://github.com/Panta-Rhei-Framework/research
-- 📚 Books: https://github.com/Panta-Rhei-Framework/books
-- 📄 Papers: https://github.com/Panta-Rhei-Framework/papers
+- 🧮 TauLib: https://github.com/Panta-Rhei-Research/taulib
+- 🧪 Research: https://github.com/Panta-Rhei-Research/research
+- 📚 Books: https://github.com/Panta-Rhei-Research/books
+- 📄 Papers: https://github.com/Panta-Rhei-Research/papers
 
 ## Discussions
 
