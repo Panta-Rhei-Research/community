@@ -1,34 +1,23 @@
-# 💬 community
+# Community
 
-This repository is the **community shell** of the **Panta Rhei framework project**.
+This repository is the public community hub of the **Panta Rhei Research Program**.
 
-It is the source repository for broad discussion surfaces and general organization-level conversation.
+It exists for broad discussion, onboarding, and routing people to the right public surface.
 
 ## Use this repo for
 
-- broad questions about the framework
-- ideas that do not yet belong in a more specific repo
-- project-wide discussions
-- routing newcomers to the right place
-
-## Do not use this repo for
-
-- formal code implementation work → use `taulib`
-- research-source work → use `research`
-- official public surface editing requests on the read-first repos unless clearly necessary
+- broad questions about the research program
+- organization-level discussion
+- newcomer onboarding
+- routing to the right repository for a concrete topic
 
 ## Where to go next
 
-- 🌌 Website: https://panta-rhei.site
-- 🧮 TauLib: https://github.com/Panta-Rhei-Research/taulib
-- 🧪 Research: https://github.com/Panta-Rhei-Research/research
-- 📚 Books: https://github.com/Panta-Rhei-Research/books
-- 📄 Papers: https://github.com/Panta-Rhei-Research/papers
+- Website: https://panta-rhei.site
+- Publications: https://github.com/Panta-Rhei-Research/publications
+- TauLib: https://github.com/Panta-Rhei-Research/taulib
+- Research: https://github.com/Panta-Rhei-Research/research
 
 ## Discussions
 
 The Discussions tab is the primary feature of this repository.
-
-Pinned discussion text for a welcome post and a routing post is included in:
-- `ORG_DISCUSSIONS_WELCOME.md`
-- `WHERE_TO_POST.md`
