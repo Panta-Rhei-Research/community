@@ -1,18 +1,58 @@
-# 👋 Welcome to the Panta Rhei discussions space
+# Welcome to Panta Rhei Discussions
 
-Welcome to the public discussion surface of the **Panta Rhei framework**.
+This is the public discussion space of the Panta Rhei Research Program.
 
-This space is for:
+We use GitHub Discussions because the program is being published as an open research object: questions, challenges, clarifications, and corrections should be linkable, searchable, attributable, and reusable where possible.
 
-- broad framework questions
-- orientation and navigation
-- conceptual discussion that is not yet repo-specific
-- project-wide ideas and announcements
+## Engagement without endorsement
 
-If you already know your question belongs somewhere more specific, please use:
+You do not need to agree with the framework to participate.
 
-- 🧮 `taulib` for formal code / Lean / implementation discussion
-- 🧪 `research` for paper sources, notebooks, scripts, and exploratory research material
-- 🌌 `site` and the read-first repos for reading and reference rather than active contribution flow
+Useful engagement includes:
 
-Please keep the discussion serious, generous, and technically honest.
+- asking a clear question;
+- challenging a claim;
+- requesting clarification;
+- pointing to a possible error;
+- reviewing one bounded area;
+- improving documentation;
+- proposing a better route through the site;
+- identifying weak links or missing assumptions.
+
+## What belongs in Discussions
+
+Use Discussions for:
+
+- public questions;
+- conceptual clarification;
+- review threads;
+- research-note discussion;
+- result-status questions;
+- falsification challenges;
+- "where should I start?" questions;
+- public offers of bounded review.
+
+## What does not belong in Discussions
+
+Use Issues for concrete defects:
+
+- broken links;
+- wrong metadata;
+- typo batches;
+- build errors;
+- specific source/import problems;
+- reproducible formalization or site failures.
+
+Use email for:
+
+- private contact;
+- institutional contact;
+- media requests;
+- sensitive critique;
+- support or funding discussion.
+
+## Discussion norm
+
+Please keep the discussion specific, generous, technically honest, and inspectable.
+
+Strong criticism is welcome when it names what would fail, where it fails, and how the claim could be checked.
