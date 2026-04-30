@@ -1,0 +1,27 @@
+name: Public Surface
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  public-surface:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check public-surface language
+        run: |
+          set -euo pipefail
+          forbidden='Every derivation machine-checked|contact@panta-rhei.site|Panta-Rhei-Framework|Panta-Rhei-Research/formalization|450 modules|125,771|4,332'
+          if grep -R -n -E --exclude='public-surface.yml' "$forbidden" .; then
+            echo "::error::Forbidden stale public-surface language found."
+            exit 1
+          fi
+
+      - name: Check whitespace
+        run: git diff --check
