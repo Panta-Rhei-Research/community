@@ -8,6 +8,17 @@ Engage is where openness becomes operational: structured scrutiny, correction, r
 
 The primary public conversation space is [GitHub Organization Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions).
 
+## Observatory architecture and correction routes
+
+Package 3 explains how the website and GitHub organization work together as a public research observatory: source paths, lane routes, review surfaces, publication artifacts, public discussions, and correction channels.
+
+- Public research observatory white paper: https://panta-rhei.site/publications/white-papers/building-a-public-research-observatory/
+- Public Research Observatory Brief: https://panta-rhei.site/media/public-research-observatory-brief/
+- Engage: https://panta-rhei.site/engage/
+- Contact and correction routes: https://panta-rhei.site/engage/contact/
+
+This architecture makes scrutiny easier to begin. It does not establish empirical truth, bridge adequacy, peer review, or external acceptance.
+
 ## Engagement without endorsement
 
 We do not ask first for agreement.
