@@ -1,27 +1,20 @@
 # Panta Rhei Community Hub
 
-This repository is the public engagement hub of the Panta Rhei Research Program.
+This repository is the public engagement hub of the **Panta Rhei Research Program**.
 
-It exists for onboarding, routing, discussion norms, review guidance, and contribution policies.
+The Panta Rhei Research Program is an independent open research program dedicated to building a coherent theory of reality.
+
+Engage is where openness becomes operational: structured scrutiny, correction, review, communication, contribution, and participation without requiring endorsement.
 
 The primary public conversation space is [GitHub Organization Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions).
 
 ## Engagement without endorsement
 
-Participation does not imply endorsement.
+We do not ask first for agreement.
 
-You can ask a question, challenge a claim, report an error, offer review, improve documentation, or contribute infrastructure without accepting the framework.
+We ask for structured open-research engagement: careful reading, public questions, critique, reproducibility checks, domain review, correction, infrastructure contribution, and responsible communication.
 
-The most useful engagement is structured attention:
-
-- read carefully;
-- inspect claims;
-- challenge weak links;
-- report errors;
-- review bounded areas;
-- contribute tooling or documentation;
-- communicate responsibly;
-- support continuation without implying agreement.
+Participation does not imply endorsement of the framework. A reader may ask a question without accepting the theory. A reviewer may challenge a result without joining the program. A contributor may improve documentation, metadata, tooling, packaging, or formalization without endorsing any conclusion.
 
 ## Where to start
 
@@ -51,3 +44,22 @@ Use Issues for concrete defects or actionable corrections.
 Use Pull Requests for proposed changes.
 
 Use email for private, institutional, media, sensitive, or support-related contact.
+
+## Where to post
+
+| Need | Route |
+|---|---|
+| Public question or discussion | [Organization Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions) |
+| Concrete defect in website | [`site` issue](https://github.com/Panta-Rhei-Research/site/issues) |
+| Concrete Lean/formalization defect | [`taulib` issue](https://github.com/Panta-Rhei-Research/taulib/issues) |
+| Publication artifact correction | [`publications` issue](https://github.com/Panta-Rhei-Research/publications/issues) |
+| Research script/notebook issue | [`research` issue](https://github.com/Panta-Rhei-Research/research/issues) |
+| Discussion norm / routing / contribution policy | [`community` issue](https://github.com/Panta-Rhei-Research/community/issues) |
+| Private, institutional, media, sensitive, or support contact | hello@panta-rhei.site or the website contact routes |
+
+## Verification note
+
+Engagement, review, and contribution workflows make the program more inspectable. They do not by themselves establish empirical truth, bridge adequacy, semantic correspondence, peer review, or external scientific acceptance.
+
+For current formalization metrics, trusted-base details, and verification boundaries, see the Release Manifest:
+https://panta-rhei.site/verify/release-manifest/
