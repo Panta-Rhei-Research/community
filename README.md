@@ -8,7 +8,7 @@ Engage is where openness becomes operational: structured scrutiny, correction, r
 
 The primary public conversation space is [GitHub Organization Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions).
 
-## Observatory architecture and correction routes
+## 🌐 Observatory Architecture and Correction Routes
 
 Package 3 explains how the website and GitHub organization work together as a public research observatory: source paths, lane routes, review surfaces, publication artifacts, public discussions, and correction channels.
 
@@ -19,7 +19,7 @@ Package 3 explains how the website and GitHub organization work together as a pu
 
 This architecture makes scrutiny easier to begin. It does not establish empirical truth, bridge adequacy, peer review, or external acceptance.
 
-## Engagement without endorsement
+## 📐 Engagement Without Endorsement
 
 We do not ask first for agreement.
 
@@ -27,17 +27,17 @@ We ask for structured open-research engagement: careful reading, public question
 
 Participation does not imply endorsement of the framework. A reader may ask a question without accepting the theory. A reviewer may challenge a result without joining the program. A contributor may improve documentation, metadata, tooling, packaging, or formalization without endorsing any conclusion.
 
-## Where to start
+## 🎯 Where to Start
 
-- Website: https://panta-rhei.site
-- Public discussions: https://github.com/orgs/Panta-Rhei-Research/discussions
-- Where to post: [WHERE_TO_POST.md](WHERE_TO_POST.md)
-- Discussion guidelines: [DISCUSSION_GUIDELINES.md](DISCUSSION_GUIDELINES.md)
-- How to review: [REVIEW_GUIDE.md](REVIEW_GUIDE.md)
-- How to contribute: [CONTRIBUTING.md](CONTRIBUTING.md)
-- Moderation: [MODERATION.md](MODERATION.md)
+- 🌐 **Website:** https://panta-rhei.site
+- 💬 **Public discussions:** https://github.com/orgs/Panta-Rhei-Research/discussions
+- 🎯 **Where to post:** [WHERE_TO_POST.md](WHERE_TO_POST.md)
+- 📐 **Discussion guidelines:** [DISCUSSION_GUIDELINES.md](DISCUSSION_GUIDELINES.md)
+- 🪞 **How to review:** [REVIEW_GUIDE.md](REVIEW_GUIDE.md)
+- 🔁 **How to contribute:** [CONTRIBUTING.md](CONTRIBUTING.md)
+- ⚖️ **Moderation:** [MODERATION.md](MODERATION.md)
 
-## What belongs here
+## 🧩 What Belongs Here
 
 Use this repository for:
 
@@ -56,19 +56,19 @@ Use Pull Requests for proposed changes.
 
 Use email for private, institutional, media, sensitive, or support-related contact.
 
-## Where to post
+## 💬 Where to Post
 
 | Need | Route |
 |---|---|
-| Public question or discussion | [Organization Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions) |
-| Concrete defect in website | [`site` issue](https://github.com/Panta-Rhei-Research/site/issues) |
-| Concrete Lean/formalization defect | [`taulib` issue](https://github.com/Panta-Rhei-Research/taulib/issues) |
-| Publication artifact correction | [`publications` issue](https://github.com/Panta-Rhei-Research/publications/issues) |
-| Research script/notebook issue | [`research` issue](https://github.com/Panta-Rhei-Research/research/issues) |
-| Discussion norm / routing / contribution policy | [`community` issue](https://github.com/Panta-Rhei-Research/community/issues) |
-| Private, institutional, media, sensitive, or support contact | hello@panta-rhei.site or the website contact routes |
+| 💬 Public question or discussion | [Organization Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions) |
+| 🐛 Concrete defect in website | [`site` issue](https://github.com/Panta-Rhei-Research/site/issues) |
+| 🔬 Concrete Lean/formalization defect | [`taulib` issue](https://github.com/Panta-Rhei-Research/taulib/issues) |
+| 📖 Publication artifact correction | [`publications` issue](https://github.com/Panta-Rhei-Research/publications/issues) |
+| 📓 Research script/notebook issue | [`research` issue](https://github.com/Panta-Rhei-Research/research/issues) |
+| ⚙️ Discussion norm / routing / contribution policy | [`community` issue](https://github.com/Panta-Rhei-Research/community/issues) |
+| 📬 Private, institutional, media, sensitive, or support contact | `hello@panta-rhei.site` or the website contact routes |
 
-## Verification note
+## 🪞 Verification Note
 
 Engagement, review, and contribution workflows make the program more inspectable. They do not by themselves establish empirical truth, bridge adequacy, semantic correspondence, peer review, or external scientific acceptance.
 
